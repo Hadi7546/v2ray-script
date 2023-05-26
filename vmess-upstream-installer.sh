@@ -1,4 +1,5 @@
 #!/bin/bash
+#HeHe.
 
 function isRoot() {
   if [ "$EUID" -ne 0 ]; then
